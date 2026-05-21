@@ -1,4 +1,4 @@
-# 👩🏻‍💻 João Victor Fractucello
+# João Victor Fractucello
 
 **`Desenvolvedor FullStack`**
 
