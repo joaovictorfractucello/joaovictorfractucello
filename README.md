@@ -3,12 +3,12 @@
   <!-- Banner opcional: troque a URL por um header seu (1200x400) -->
   <!-- <img src="https://raw.githubusercontent.com/joaovictorfractucello/joaovictorfractucello/main/assets/banner.png" alt="banner" width="100%" /> -->
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A100FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+Victor;Full+Stack+Developer;React+%7C+Node.js+%7C+MySQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A100FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+Victor;Full+Stack+Developer;" alt="Typing SVG" />
 
   <br/>
 
-  **Desenvolvedor Full Stack** · Pós-graduando em Engenharia de Software  
-  Formado em Cibersegurança · Foco em UX, performance e boas práticas
+  **Desenvolvedor Full Stack** · São Caetano do Sul – SP · Híbrido/Remoto  
+  React · Node.js · MySQL · APIs REST · Segurança de aplicações
 
   <br/>
 
@@ -25,10 +25,11 @@
 
 ### Sobre mim
 
-Olá, sou o **João** - desenvolvedor Full Stack com experiência em **React**, **Node.js** e **MySQL**.  
-Construo aplicações web e e-commerces modernos: interfaces responsivas, APIs eficientes e atenção à experiência do usuário.
+Desenvolvedor Full Stack com atuação prática no desenvolvimento e manutenção de **aplicações web** e **plataformas e-commerce**, trabalhando ponta a ponta com **React**, **JavaScript**, **Node.js** e **MySQL**.
 
-Unindo formação em **Cibersegurança** com pós em **Engenharia de Software e Gerenciamento de Projetos**, trago visão técnica + estratégica para o produto.
+No dia a dia, construo interfaces responsivas, desenvolvo **APIs REST** com Express.js, integro sistemas ao banco de dados e evoluo produtos existentes — novas features, correção de bugs e melhorias de UX/UI em parceria com o time de design. Uso **Git** no fluxo de versionamento e metodologias ágeis (**Scrum** / **Kanban**) no ritmo de entrega.
+
+A formação em **Cibersegurança** (USCS) reforça a visão de autenticação, controle de acesso, proteção de APIs e boas práticas de segurança no código. Atualmente cursando **pós-graduação em Engenharia de Software e Gerenciamento de Projetos** (USCS), aprofundando arquitetura, processos ágeis, PMBOK e governança de TI.
 
 ---
 
@@ -42,9 +43,10 @@ Unindo formação em **Cibersegurança** com pós em **Engenharia de Software e 
 
 ### Estatísticas
 
+<!-- Cards gerados pela GitHub Action (pasta profile/) — não dependem do vercel.app -->
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=joaovictorfractucello&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorfractucello&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=8&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+  <img height="180" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img height="180" src="./profile/top-langs.svg" alt="Top Langs" />
 </div>
 
 <br/>
